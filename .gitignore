@@ -1,5 +1,5 @@
 *.log
-wp-admin/
+wp-admin/*
 wp-includes/
 wp-config.php
 wp-content/advanced-cache.php
