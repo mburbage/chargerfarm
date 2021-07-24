@@ -21,6 +21,7 @@ xmlrpc.php
 
 wp-admin/*
 wp-includes/
+index.php
 wp-config.php
 wp-content/advanced-cache.php
 wp-content/backup-db/
