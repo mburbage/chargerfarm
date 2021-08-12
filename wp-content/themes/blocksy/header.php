@@ -14,6 +14,8 @@
 <!doctype html>
 <html <?php language_attributes(); ?>>
 <head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3066134553798092"
+     crossorigin="anonymous"></script>
 	<?php do_action('blocksy:head:start') ?>
 
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
