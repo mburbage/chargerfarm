@@ -5,7 +5,7 @@ Requires PHP: 7.0
 Tested up to: 5.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Stable tag: 1.8.7.2
+Stable tag: 1.8.7.5
 
 == Description ==
 
@@ -23,6 +23,18 @@ It runs and adds its enhancements only if the Blocksy theme is installed and act
 2. Activate the plugin by going to **Plugins** page in WordPress admin and clicking on **Activate** link.
 
 == Changelog ==
+1.8.7.5: 2021-08-02
+- Improvement: General fixes and improvements
+
+1.8.7.4: 2021-07-30
+- Improvement: General fixes and improvements
+
+1.8.7.3: 2021-07-29
+- Improvement: General fixes and improvements
+
+1.8.7.3-beta2: 2021-07-28
+- Improvement: General fixes and improvements
+
 1.8.7.2: 2021-07-26
 - Improvement: Properly compute current url for lazy loaded account html
 

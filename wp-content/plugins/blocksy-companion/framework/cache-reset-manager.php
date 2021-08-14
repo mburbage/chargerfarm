@@ -23,7 +23,13 @@ class CacheResetManager {
 			return;
 		}
 
-		if ($options['type'] === 'theme') {
+		if (
+			$options['type'] === 'theme'
+			&&
+			isset($options['themes'])
+			&&
+			$options['themes']
+		) {
 			if (in_array('blocksy', $options['themes'])) {
 				$this->run_cache_purge();
 				do_action('blocksy:dynamic-css:refresh-caches');

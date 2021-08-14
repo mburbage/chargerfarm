@@ -130,7 +130,7 @@ if (! empty($scores)) {
 	echo '</div>';
 }
 
-echo '<div class="ct-product-actions">';
+echo '<div class="ct-product-actions-group">';
 
 $product_link = blocksy_akg('product_link', $atts, '#');
 $product_button_label = blocksy_akg(

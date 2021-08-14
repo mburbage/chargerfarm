@@ -1,4 +1,4 @@
-.ct-product-actions {
+.ct-product-actions-group {
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -8,11 +8,11 @@
 	}
 
 	.ct-button:not(:last-child) {
-		margin-right: 25px;
+		margin-inline-end: 25px;
 	}
 
 	.ct-icon-container {
 		color: inherit;
-		margin-left: 10px;
+		margin-inline-start: 10px;
 	}
 }
